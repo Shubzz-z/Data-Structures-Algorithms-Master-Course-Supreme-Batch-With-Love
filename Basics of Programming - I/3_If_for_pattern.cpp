@@ -79,7 +79,6 @@ int main(){
             }else{
                 cout<<"  ";
             }
-            
         }
         if(!row)
             cout<<"*";
